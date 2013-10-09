@@ -1,2 +1,3 @@
-xchat_startuptray
-=================
+StartupTray
+===========
+Automatically minimizes X-Chat to the taskbar at startup.
